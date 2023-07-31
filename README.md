@@ -21,7 +21,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://simboonlong.github.io/simboonlong)
+[**Visit our status website →**](https://simboonlong.github.io/status)
 
 ## 📄 License
 
