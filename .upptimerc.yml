@@ -16,5 +16,12 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/simboonlong/status
+workflowSchedule: # https://upptime.js.org/docs/configuration/#ci-schedule and https://upptime.js.org/docs/triggers/#available-workflows
+  graphs: "0 0 * * *"
+  responseTime: "0 0 * * *"
+  staticSite: "0 0 1 * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 1 * *"
+  uptime: "0 0 * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
